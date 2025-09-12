@@ -17,8 +17,6 @@ It includes:
 
 ---
 
-##  Screenshot
-
 ##  Setup Instructions
 
 ### 1. Clone the repository
