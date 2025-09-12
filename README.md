@@ -17,7 +17,7 @@ It includes:
 
 ---
 ## Screenshot 
-![Alt text](/ff.png)
+![Alt text](InstaInsight-Ad-Analytics/ff.png)
 
 
 ##  Setup Instructions
