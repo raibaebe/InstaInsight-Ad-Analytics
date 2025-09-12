@@ -16,8 +16,9 @@ It includes:
 - Visualization setup (using Apache Superset) for dashboards and reporting.  
 
 ---
+## Screenshot 
+![Alt text](/ff.png)
 
-##  Screenshot
 
 ##  Setup Instructions
 
