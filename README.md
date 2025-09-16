@@ -26,8 +26,8 @@ It includes:
 ```bash
 git clone https://github.com/your-username/InstaInsight-Ad-Analytics.git
 cd InstaInsight-Ad-Analytics
-
-#### 2. Run python script
+---
+## 2. Run python script
 ```bash
 python scripts/main.py
 
