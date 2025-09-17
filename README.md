@@ -1,8 +1,8 @@
 
-# Ontarget – Social Media Ad Analytics
+# OnTarget – Social Media Ad Analytics
 
 ##  Company Overview
-**Ontarget** is a social media analytics project that helps brands run smarter ad campaigns.  
+**OnTarget** is a social media analytics project that helps brands run smarter ad campaigns.  
 We analyze **user engagement, demographics, and campaign performance** to provide insights that improve ad targeting and return on investment (ROI).
 
 ---
