@@ -1,14 +1,14 @@
 
-# InstaInsight – Social Media Ad Analytics
+# Ontarget – Social Media Ad Analytics
 
 ##  Company Overview
-**InstaInsight** is a social media analytics project that helps brands run smarter Instagram ad campaigns.  
+**Ontarget** is a social media analytics project that helps brands run smarter ad campaigns.  
 We analyze **user engagement, demographics, and campaign performance** to provide insights that improve ad targeting and return on investment (ROI).
 
 ---
 
 ##  Project Description
-This project simulates the work of a **data analyst for Instagram advertising**.  
+This project simulates the work of a **data analyst for social media advertising**.  
 It includes:
 - A relational database with multiple tables (users, posts, ads, campaigns, engagement).  
 - SQL queries to explore ad performance, user behavior, and campaign efficiency.  
