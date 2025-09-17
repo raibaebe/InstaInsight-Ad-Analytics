@@ -24,8 +24,8 @@ It includes:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/InstaInsight-Ad-Analytics.git
-cd InstaInsight-Ad-Analytics
+git clone https://github.com/raibaebe/OnTarget-Ad-Analytics.git
+cd Ontarget-Ad-Analytics
 ```
 ### 2. Run python script
 ```bash
