@@ -17,7 +17,7 @@ It includes:
 
 ---
 ## Screenshot 
-![Alt text](ff.PNG)
+![Alt text](schema.PNG)
 
 
 ##  Setup Instructions
